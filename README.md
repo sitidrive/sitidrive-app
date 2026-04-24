@@ -1,5 +1,5 @@
 # sitidrive-app 🚗
-SititDrive — a zone-based shared mobility platform for Abuja/City commuters. Helping people move smarter with reliable, affordable shared rides.
+sitidrive — a zone-based shared mobility platform for Abuja/City commuters. Helping people move smarter with reliable, affordable shared rides.
 
 
 ## 🚀 What It Does
